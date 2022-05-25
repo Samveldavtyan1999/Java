@@ -1,6 +1,6 @@
 package classwork.Lesson9;
 
-public class ArraySpaceExample2 {
+public class ArraySpaceExamplee {
     public static void main(String[] args) {
         char[] spaceArray = {' ', 'c', 'a', 't', ' ', 'b', 'i', ' ', 'b', ' ', ' '};
         int first = 0;

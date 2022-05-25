@@ -1,6 +1,6 @@
 package classwork.Lesson9;
 
-public class ArraySort1 {
+public class ArraySortt {
 
     public static void main(String[] args) {
 
