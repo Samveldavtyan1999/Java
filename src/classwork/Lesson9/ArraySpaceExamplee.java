@@ -1,4 +1,4 @@
-package classwork.Lesson9l;
+package classwork.Lesson9;
 
 public class ArraySpaceExamplee {
     public static void main(String[] args) {
